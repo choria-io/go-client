@@ -1,6 +1,6 @@
 # Golang Choria Client
 
-This is a low level client to the Choria network protocol.  It is not intended to be used for making `mcollective` compatible RPC calls - such a library would be written on top of it.
+This is a low level client to the Choria network protocol.  It is not intended to be used for making `mcollective` compatible RPC calls - such a library exist as part of the `mcorpc` package in the `go-choria` project, it uses this client to facilitate network communications.
 
 It's a high performance client that can make multiple parallel connections to the Choria Network Broker and multiplex data into the calling client.  It's been shown to do full `ping` style round trip to 50 000 nodes in less than 1 second.
 
