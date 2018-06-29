@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2018/06/29|      |Release 0.1.1                                                                                            |
+|2018/06/28|16    |Treat empty strings as noop when constructing filters                                                    |
 |2018/06/28|      |Release 0.1.0                                                                                            |
 |2018/06/28|18    |Allow fire and forget request                                                                            |
 |2018/06/19|      |Release 0.0.1                                                                                            |
