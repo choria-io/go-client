@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2018/07/02|      |Release 0.2.0                                                                                            |
+|2018/07/02|21    |Allow NATS names to be supplied to avoid prometheus metric leaks                                         |
 |2018/06/29|      |Release 0.1.1                                                                                            |
 |2018/06/28|16    |Treat empty strings as noop when constructing filters                                                    |
 |2018/06/28|      |Release 0.1.0                                                                                            |
