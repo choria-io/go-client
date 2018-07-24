@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2018/07/24|      |Release 0.4.0                                                                                            |
+|2018/07/24|28    |Use Choria 0.5.0 as dependency rather than master                                                        |
 |2018/07/12|      |Release 0.3.0                                                                                            |
 |2018/07/12|25    |Ensure initial connection errors during broadcast discovery do not block forever                         |
 |2018/07/21|21    |Allow discovery connection names to be set                                                               |
