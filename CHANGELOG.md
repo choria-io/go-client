@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2018/11/15|      |Release 0.4.1                                                                                            |
+|2018/10/27|33    |Support latest choria API to move to a better UUID library                                               |
 |2018/07/24|      |Release 0.4.0                                                                                            |
 |2018/07/24|28    |Use Choria 0.5.0 as dependency rather than master                                                        |
 |2018/07/12|      |Release 0.3.0                                                                                            |
