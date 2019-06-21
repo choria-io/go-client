@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2019/06/21|      |Release 0.4.2                                                                                            |
+|2019/06/21|      |Support `go mod`                                                                                         |
 |2018/11/15|      |Release 0.4.1                                                                                            |
 |2018/10/27|33    |Support latest choria API to move to a better UUID library                                               |
 |2018/07/24|      |Release 0.4.0                                                                                            |
