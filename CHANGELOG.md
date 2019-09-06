@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2019/09/06|      |Release 0.5.1                                                                                            |
+|2019/09/06|42    |Use correct logging package in broadcast discovery                                                       |
 |2019/09/06|      |Release 0.5.0                                                                                            |
 |2019/06/26|38    |Support `go-config` and `go-srvcache`                                                                    |
 |2019/06/21|      |Release 0.4.2                                                                                            |
