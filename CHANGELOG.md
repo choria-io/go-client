@@ -1,5 +1,7 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2019/12/07|      |Release 0.5.2                                                                                            |
+|2019/12/07|      |Update dependencies                                                                                      |
 |2019/09/06|      |Release 0.5.1                                                                                            |
 |2019/09/06|42    |Use correct logging package in broadcast discovery                                                       |
 |2019/09/06|      |Release 0.5.0                                                                                            |
