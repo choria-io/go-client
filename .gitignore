@@ -10,3 +10,4 @@
 *.tgz
 vendor
 go-client
+.idea

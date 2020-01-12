@@ -4,8 +4,8 @@ go 1.13
 
 require (
 	github.com/choria-io/go-choria v0.13.1-0.20191222210956-2291fc70abd6
-	github.com/choria-io/go-config v0.0.6-0.20191214141246-32872409688e
-	github.com/choria-io/go-protocol v1.3.3-0.20191222211307-b08a8ffce4a2
+	github.com/choria-io/go-config v0.0.6
+	github.com/choria-io/go-protocol v1.4.0
 	github.com/choria-io/go-srvcache v0.0.6
 	github.com/golang/mock v1.3.1
 	github.com/onsi/ginkgo v1.11.0
