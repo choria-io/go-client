@@ -1,5 +1,8 @@
 |Date      |Issue |Description                                                                                              |
 |----------|------|---------------------------------------------------------------------------------------------------------|
+|2020/01/12|      |Release 0.5.3                                                                                            |
+|2019/12/22|51    |Simplify fact filter helpers                                                                             |
+|2019/12/15|48    |Improve error handling when publishing messages                                                          |
 |2019/12/07|      |Release 0.5.2                                                                                            |
 |2019/12/07|      |Update dependencies                                                                                      |
 |2019/09/06|      |Release 0.5.1                                                                                            |
